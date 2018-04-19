@@ -1,0 +1,11 @@
+Library
+obj
+XCode
+Temp
+QCAR
+*.user
+*.csproj
+*.sln
+*.apk
+*.log
+*.mp4
